@@ -1,0 +1,2 @@
+# IMUdataClassification
+Kaggle Competition 
